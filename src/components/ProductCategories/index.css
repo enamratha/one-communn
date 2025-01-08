@@ -1,0 +1,12 @@
+.Residential{
+    background-image: url('https://s3-alpha-sig.figma.com/img/9221/7a8d/981b04dc3584d8b880931736d4bad565?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KjljXkmEGduHklQJIERZieNp5NbQJy8j4VWvLoiae1l-vQZ-LCpz2QHterxxxPbXOg1JVQancRrW0bidhsd4YVlbF52OQcaWrwgywwc3x0affpaD5G3ZTYkmx4QxnSXyXGMXlaW5-8FGNQRjMWhWtqah3q5Kj5PrBneBITwtTWEnVY9EjwDXY6mjaY1ueDjB9nCxD13hXAS9Rpo2riIb9vm2wvdzVga7h5AhQLLU6o-iKazU3iVGpjZVN6wkQ1ow7DEX4wAilpll0abAcKqX4uy0n0RXzvyvltSSZGB3FCcmbtAp-1UQ9L~si6zDy2XyMPDl0y-5KbLPjDo4cUypew__');
+    background-size: cover;
+}
+.Institutional{
+    background-image: url('https://res.cloudinary.com/dzhzfdugz/image/upload/v1736352413/hig0niszkfaraij3s4qc.png');
+    background-size: cover;
+}
+.Commercial{
+    background-image: url('https://s3-alpha-sig.figma.com/img/b567/a289/564d0c3dabd217c8fa3313e33cb9e734?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RTjxVsb5IZyc8BMnu7dZVvHrzTiOHf1~1COTWT0h0WtdbL3M9mB8tx4jlJMD2gYPuWmrcagUvc9Tt4xtv5H4VyGv~n6uq-8jdVS38AlkzWGymF3NK3jBpgPzLSD8Lw6~T5BKRbXS54fki-amrGWjmrImsgqeSCZWIhP5Ejcqqcrb~SfFyOxXnOF88vZwfrrOi-NwqsTiMb4CTC028VStBN~hYK~4Xo4wuwoy8WRxQx3Wz5PHfiwl98KXG1yqAdGO4R5W1Vi47Ikw88oE31sHHmOS~ESDWevSXs3ry2YfhdaISvM235f-iwxciDosPfsHuC304p4TBBw9cW3f~fJMHQ__');
+    background-size: cover;
+}
