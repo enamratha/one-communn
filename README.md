@@ -1,5 +1,5 @@
 # install dependencies
-npm istall
+npm install
 
 ## Available Scripts
 
